@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="tools.jackson.core.databind" type="repository">
+    <properties maven-id="tools.jackson.core:jackson-databind:3.1.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tools/jackson/core/jackson-databind/3.1.5/jackson-databind-3.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.21/jackson-annotations-2.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/tools/jackson/core/jackson-core/3.1.5/jackson-core-3.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
